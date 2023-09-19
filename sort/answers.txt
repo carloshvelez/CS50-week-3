@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: smaller omega than sort 3 when sorted
+
+sort2 uses: merge sort
+
+How do you know?: Better O
+
+sort3 uses: selection sort
+
+How do you know?: bigger omega than sort 3 when sorted.
